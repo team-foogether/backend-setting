@@ -36,7 +36,7 @@ backend-setting in fing
 ```
 
 
-# microservice 도출
+# MicroService 도출
 (20.05.23.sat)
 
 - 총 10개 서비스(담당자)
@@ -53,3 +53,7 @@ backend-setting in fing
 
 <img src="https://user-images.githubusercontent.com/36287324/82732532-c6fe9280-9d48-11ea-84c5-68b520ea790b.jpg" width="90%"></img>
 
+
+# API 명세서 작성
+
+# Domain Modeling
