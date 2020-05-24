@@ -52,6 +52,7 @@ backend-setting in fing
   - (김희운) **공간대여** 
   - (이여진) **사용자 신고(사용자가 신고)**
 
+## event storming
 <img src="https://user-images.githubusercontent.com/36287324/82732532-c6fe9280-9d48-11ea-84c5-68b520ea790b.jpg" width="90%"></img>
 
 
