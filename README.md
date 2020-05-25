@@ -10,6 +10,8 @@ backend-setting in fing
 - MySQL 8
 - Workbench 8
 
+> [참고] [eclipse-setting](https://github.com/team-fing/backend-setting/blob/master/eclipse-setting.md)
+
 
 ## structure
 `[] : package`
