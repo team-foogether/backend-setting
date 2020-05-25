@@ -56,6 +56,12 @@ backend-setting in fing
   - (이여진) **사용자 신고(사용자가 신고)**
 
 ## event storming
+- 파란색 : command
+- 진노랑색 : event
+- 보라색 및 연노랑색 : Actor
+- 초록색 : Aggregate
+- 진핑크색 및 빨간색 : outer system & hot issue
+
 <img src="https://user-images.githubusercontent.com/36287324/82732532-c6fe9280-9d48-11ea-84c5-68b520ea790b.jpg" width="90%"></img>
 
 
