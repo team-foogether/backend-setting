@@ -56,6 +56,38 @@ backend-setting in fing
 ## event storming
 <img src="https://user-images.githubusercontent.com/36287324/82732532-c6fe9280-9d48-11ea-84c5-68b520ea790b.jpg" width="90%"></img>
 
+- 회원
+![2  회원](https://user-images.githubusercontent.com/36287324/82768723-bf83da00-9e6b-11ea-9c1b-db18de6c0a15.jpg)
+
+- 마이페이지
+![3  마이페이지](https://user-images.githubusercontent.com/36287324/82768750-f1953c00-9e6b-11ea-9abb-1ceb35e97274.jpg)
+
+- 외부 시스템
+  - 알람 및 결제
+  - SNS 로그인
+  - 위치 정보
+  ![4  알람](https://user-images.githubusercontent.com/36287324/82768765-fa860d80-9e6b-11ea-8330-cf93e4a10892.jpg)
+  
+- 관리자
+![5  관리자](https://user-images.githubusercontent.com/36287324/82768756-f6f28680-9e6b-11ea-85fa-c925505b39ff.jpg)
+
+- 모이자
+![6  모임](https://user-images.githubusercontent.com/36287324/82768757-f823b380-9e6b-11ea-83ed-eda4579d58a4.jpg)
+
+- 판매상품
+![7  판매상품](https://user-images.githubusercontent.com/36287324/82768759-f8bc4a00-9e6b-11ea-9a2d-764028442b9e.jpg)
+
+- 댓글
+![8  댓글](https://user-images.githubusercontent.com/36287324/82768760-f954e080-9e6b-11ea-94b5-5b1f6137d5cb.jpg)
+
+- 후기
+![9  후기](https://user-images.githubusercontent.com/36287324/82768762-f9ed7700-9e6b-11ea-9159-0c5ec2eeba44.jpg)
+
+- 공간대여
+![10  공간대여](https://user-images.githubusercontent.com/36287324/82768763-f9ed7700-9e6b-11ea-8a01-880d9515b9cf.jpg)
+
+- 사용자 신고
+![11  사용자 신고](https://user-images.githubusercontent.com/36287324/82768764-fa860d80-9e6b-11ea-9d5d-2ae21ef00bdd.jpg)
 
 # API 명세서 작성
 
