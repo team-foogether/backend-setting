@@ -112,5 +112,6 @@ backend-setting in fing
   <img src="https://user-images.githubusercontent.com/36287324/82768764-fa860d80-9e6b-11ea-9d5d-2ae21ef00bdd.jpg" width="70%"></img>
 
 # API 명세서 작성
+[API 명세서 목록](https://github.com/team-fing/backend-setting/wiki)
 
 # Domain Modeling
