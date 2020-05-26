@@ -1,3 +1,8 @@
+## eclipse와 git 연동
+https://archmond.net/?p=8115
+이 부분 참조. branch에서 master 안뜰때가 있는데 넘어가고 나중에 Commit할 때 물어봄.
+큰 흐름 따라가면 git과 연동 가능
+
 ## setting
 <img src="https://user-images.githubusercontent.com/36287324/82854211-bade2500-9f42-11ea-9277-a96557ec79a3.png" width="35%"/>
 
