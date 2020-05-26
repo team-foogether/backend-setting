@@ -7,8 +7,11 @@ backend-setting in fing
 - springboot 2.3.0
   - lombok
   - Spring Data JPA
+  - Devtools
+  - Spring Web
 - MySQL 8
 - Workbench 8
+- STS 4
 
 > [참고] [eclipse-setting](https://github.com/team-fing/backend-setting/blob/master/eclipse-setting.md)
 
