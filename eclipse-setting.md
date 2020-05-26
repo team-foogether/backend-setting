@@ -1,5 +1,5 @@
 ## setting
-<img src="https://user-images.githubusercontent.com/36287324/82853870-d137b100-9f41-11ea-97f8-007a972142a5.png" width="35%"/>
+<img src="https://user-images.githubusercontent.com/36287324/82854211-bade2500-9f42-11ea-9277-a96557ec79a3.png" width="35%"/>
 
 Name, Artifact, Description, Package 는 각자에 맞춰서 변경
 
