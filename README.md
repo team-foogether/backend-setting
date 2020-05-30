@@ -24,19 +24,19 @@ backend-setting in fing
   - [controller]
   - [dto]
      - **Dto.java
-  - [domain]
-     - [User] - example
-         - User.java
-     - [Board] - example
-         - Board.java
-  - [service]
-     - **ImpleService.java
-     - **Service.java
-  - [config]
-     - [dto]
-     - **Config.java
-  - [repository]
-     - **Repository.java
+[domain]
+  - [User] - example
+      - User.java
+  - [Board] - example
+      - Board.java
+[service]
+  - **ImpleService.java
+  - **Service.java
+[config]
+  - [dto]
+  - **Config.java
+[repository]
+  - **Repository.java
 ```
 
 
