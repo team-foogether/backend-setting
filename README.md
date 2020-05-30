@@ -23,8 +23,7 @@ backend-setting in fing
 [web]
   - [controller]
   - [dto]
-     - **ResponseDto.java
-     - **RequestDto.java
+     - **Dto.java
   - [domain]
      - [User] - example
          - User.java
