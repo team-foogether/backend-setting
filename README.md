@@ -117,3 +117,11 @@ backend-setting in fing
 [API 명세서 목록](https://github.com/team-fing/backend-setting/wiki)
 
 # Domain Modeling
+
+# Scrum
+- 매일 am10:15
+- 스크럼 내용
+  - 어제 무엇을 했는지?
+  - 오늘 무엇을 할건지?
+  - 장애물은 무엇인지?
+- 이후 장애물에 대한 피드백
