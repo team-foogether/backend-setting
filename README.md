@@ -126,4 +126,5 @@ backend-setting in fing
   - 장애물은 무엇인지?
 - 이후 장애물에 대한 피드백
 
-![KakaoTalk_20200601_224535796](https://user-images.githubusercontent.com/36287324/83417241-c6f34680-a45c-11ea-8034-24ebfef70633.jpg)
+<img src="https://user-images.githubusercontent.com/36287324/83417241-c6f34680-a45c-11ea-8034-24ebfef70633.jpg" width="70%"></img>
+
