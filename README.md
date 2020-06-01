@@ -3,7 +3,7 @@ backend-setting in fing
 
 ## setting
 - java 8
-- gradle 3
+- gradle 3.0
 - springboot 2.3.0
   - lombok
   - Spring Data JPA
@@ -125,3 +125,5 @@ backend-setting in fing
   - 오늘 무엇을 할건지?
   - 장애물은 무엇인지?
 - 이후 장애물에 대한 피드백
+
+![KakaoTalk_20200601_224535796](https://user-images.githubusercontent.com/36287324/83417241-c6f34680-a45c-11ea-8034-24ebfef70633.jpg)
