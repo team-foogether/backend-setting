@@ -1,4 +1,4 @@
-1. gradle에 h2 추가
+1. build.gradle에 h2 추가
 ```
 dependencies {
         :
@@ -39,4 +39,4 @@ dependencies {
 ![이미지 012](https://user-images.githubusercontent.com/36287324/82757315-98e98300-9e1a-11ea-9424-b1a61f49b36c.png)
 
 파일 생성이 권한도 있어야 되고 해서 Session키를 물고 있어야함. 그래서 **처음 DB파일 생성할때만 파일모드로 접근하고 이후에는 JDBC URL에 Network mode(tcp)로 접근**
-- **이후 부터는 JDBC URL 에서 jdbc:h2:tcp://[설정한 경로]/[DB 이름] 이렇게 접속**
+- **이후 부터는 JDBC URL 에서 jdbc:h2:tcp://localhost/[설정한 경로]/[DB 이름] 이렇게 접속**
